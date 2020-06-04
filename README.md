@@ -9,5 +9,5 @@ But it's also to try to improve the situation by reporting each bug to the conce
 ## Bug Report
 Here is where to report bugs for the following clients : 
 * [Outlook.com](http://outlook.uservoice.com/forums/284136-outlook-com)
-* [Yahoo! Mail](https://yahoo.uservoice.com/forums/210695-yahoo-mail)
+* [Yahoo! Mail](https://yahoo.uservoice.com/forums/600772)
 * [Mozilla Thunderbird](https://bugzilla.mozilla.org/enter_bug.cgi)
